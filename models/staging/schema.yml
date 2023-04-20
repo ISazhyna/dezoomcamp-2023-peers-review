@@ -3,7 +3,7 @@ version: 2
 
 sources:
     - name: staging
-      database: de-zoomcamp-375916
+      database: tidy-crane-383100
       schema: final_project
       tables:
         - name: all_weather_data
